@@ -1,7 +1,7 @@
 import qrcode
 
 # Your hosted website URL
-url = 'https://yourwebsite.com'
+url = 'https://kmakd.github.io/online-bar-menu/'
 
 # Generate QR code
 qr = qrcode.QRCode(
